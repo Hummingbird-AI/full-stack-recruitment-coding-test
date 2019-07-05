@@ -3,6 +3,8 @@
 Welcome to our Full Stack Recruitment Test.
 Please feel free to spend as much time as you deem necessary and let us know how long you spent.
 
+Please follow the below instructions to complete the test.
+
 ----
 
 1) create a application with any framework (laravel/React/Java/Node.JS) that will have following pages
@@ -18,6 +20,9 @@ you will have to implement authentication functionality but you will not use any
  - you will not use any database to implement above functionalities
 
 3) Write an autocomplete search api in your application that will use internally google place autocomplete api from your application , you can user Guzzle or any other packages like Guzzle.
+
+
+4. Code readability is very important part of this test. Therefore , we will consider your skill how you write your code which could be easily maintenable. 
 ----
 
 # Technical questions
