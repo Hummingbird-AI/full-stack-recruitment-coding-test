@@ -23,6 +23,11 @@ you will have to implement authentication functionality but you will not use any
 
 
 4. Code readability is very important part of this test. Therefore , we will consider your skill how you write your code which could be easily maintenable. 
+
+
+5. Please provide the instructions to setup the application.
+
+
 ----
 
 # Technical questions
